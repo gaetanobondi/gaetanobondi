@@ -1,32 +1,30 @@
-# Ciao, sono Gaetano! 👋
+# Hi, I'm Gaetano! 👋
 
-Benvenuto nel mio profilo GitHub! Sono appassionato di [Inserisci qui i tuoi interessi principali, come sviluppo web, data science, intelligenza artificiale, ecc.] e amo esplorare nuove tecnologie e imparare sempre qualcosa di nuovo.
+Welcome to my GitHub profile! I am passionate about web and mobile development, data science, artificial intelligence and love to explore new technologies and always learn something new.
 
-## Chi sono
+## Who I am
 
-Sono uno studente/appassionato di [Inserisci il tuo campo di studio o professionale] con una forte curiosità per [Inserisci argomenti di interesse specifici]. Sono sempre alla ricerca di modi per mettere alla prova le mie capacità e migliorare come sviluppatore.
+I'm a Computer Engineering student with a strong curiosity about Swift, PHP and programming in general. I'm always looking for ways to challenge my skills and improve as a developer.
 
-## Cosa troverai qui
+## What you will find here
 
-In questo spazio, troverai una miscela di progetti, tutorial e esperimenti legati al mondo di [Inserisci qui la tua area di interesse principale]. Spero che le mie creazioni possano essere utili o ispirare altre persone che condividono la mia passione.
+In this space, you'll find a mix of coding-related projects, tutorials, and experiments. I hope my creations can be useful or inspire other people who share my passion.
 
-## Progetti Principali
+## Main projects
 
-- [Nome del Progetto](link_al_progetto) - Una breve descrizione di cosa fa questo progetto e perché l'hai creato.
-- [Nome del Progetto 2](link_al_progetto) - Allo stesso modo, descrivi l'obiettivo di questo progetto e il problema che risolve.
+- OurUniversity (www.ouruniversity.it) - A community that aims to support students in their studies, offering tools to help them face their exams.
 
-## Trovami anche su
+## Also find me on
 
-- [LinkedIn](link_al_tuo_profilo_linkedin) - Connettiamoci su LinkedIn per rimanere in contatto.
-- [Twitter](link_al_tuo_profilo_twitter) - Seguimi su Twitter per aggiornamenti e condivisioni su [argomenti di interesse].
+- [LinkedIn](https://www.linkedin.com/in/gaetano-bondì-51766321b/) - Let's connect on LinkedIn to stay in touch.
 
-## Contributi
+## Contributions
 
-Sono sempre aperto a nuove idee e collaborazioni. Se hai suggerimenti, correzioni o desideri contribuire a uno dei miei progetti, sentiti libero di aprire una issue o inviare una pull request. Insieme possiamo fare grandi cose!
+I am always open to new ideas and collaborations. If you have suggestions, corrections or would like to contribute to one of my projects, feel free to open an issue or submit a pull request. Together we can do great things!
 
-## Ringraziamenti
+## Thanks
 
-Grazie per aver visitato il mio profilo GitHub. Spero che tu trovi qualcosa di interessante o utile qui. Non esitare a contattarmi se hai domande, suggerimenti o semplicemente vuoi fare una chiacchierata. Ci sentiamo nel codice!
+Thanks for visiting my GitHub profile. I hope you find something interesting or useful here. Don't hesitate to contact me if you have any questions, suggestions or just want to have a chat. We feel in the code!
 
 
 <!--
