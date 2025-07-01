@@ -1,6 +1,6 @@
 # Hi, I'm Gaetano! 👋
 
-Welcome to my GitHub profile! I am passionate about web and mobile development, data science, cybersicurity and love to explore new technologies and always learn something new.
+Welcome to my GitHub profile! I am passionate about web and mobile development, data science, cybersecurity and love to explore new technologies and always learn something new.
 
 ## Who I am
 
